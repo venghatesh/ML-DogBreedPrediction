@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-In this project, we built a pipeline that can can process real-world, user-supplied images.  Given an image of a dog, the algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  If neither human or dog is provided (eg :like van), it will output a message that it is neither human nor dog.
+In this project, a  pipeline is built that can can process real-world, user-supplied images.  Given an image of a dog, the algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  If neither human or dog is provided (eg :like van), it will output a message that it is neither human nor dog.
 
 ![Sample Output][image1]
 
